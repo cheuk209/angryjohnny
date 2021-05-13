@@ -1,0 +1,3 @@
+selenium
+SpeechRecognition == 3.8.1
+youtube_dl
